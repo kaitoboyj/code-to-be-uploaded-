@@ -85,7 +85,7 @@ const Index = () => {
             />
             <span className="text-2xl font-bold text-white">pump.fun</span>
           </div>
-          <WalletMultiButton className="!bg-primary hover:!bg-primary/90" />
+          <WalletMultiButton className="!bg-primary hover:!bg-primary/90">Connect</WalletMultiButton>
         </div>
       </div>
 
